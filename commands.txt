@@ -1,0 +1,4 @@
+1) python -m venv v1
+2) ./v1/scripts/Activate
+3) pip install -r requirements.txt
+4) Streamlit run app.py
